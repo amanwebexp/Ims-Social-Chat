@@ -70,7 +70,7 @@ Ims Social Chat makes it easy for your visitors to engage in chat on your websit
 
 = Can I add multiple agents? =
 
-Yes, you can add "multiple agents" onIms Social Chat.
+Yes, you can add "multiple agents" on Ims Social Chat.
 
 = DoesIms Social Chat save any personal data? =
 
